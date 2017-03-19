@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/home/jqalc/Documents/Thesis/TeX/
+pdflatex main.tex

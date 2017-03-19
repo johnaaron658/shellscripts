@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PATH="/home/jqalc/bin/$1/:$PATH"
