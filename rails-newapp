@@ -1,0 +1,7 @@
+#!/bin/bash
+
+source mkdir "$1"
+source cd "$1"
+source rvm use "ruby-2.4.0@$1" --ruby-version --create
+gem install rails
+rails new .

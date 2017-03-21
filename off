@@ -1,0 +1,3 @@
+#!/bin/bash
+
+udisksctl power-off -b "/dev/$1"
